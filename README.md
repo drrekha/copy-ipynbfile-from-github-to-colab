@@ -1,1 +1,2 @@
 # copy-ipynbfile-from-github-to-colab
+youtube link---https://www.google.com/search?q=import+ipynb+file+from+github+to+colab&sxsrf=ALiCzsa68s3diEs4AubqOgrOyDk1vhIgxw%3A1670568521108&ei=SdqSY-H8BeihseMPup-2CA&ved=0ahUKEwihxZfa-Ov7AhXoUGwGHbqPDQEQ4dUDCA8&uact=5&oq=import+ipynb+file+from+github+to+colab&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzoKCAAQRxDWBBCwAzoFCAAQogQ6BggAEAgQHjoFCAAQhgM6CAghEMMEEKABOgcIIxCwAhAnSgQIQRgASgQIRhgAUPAGWPtQYPpZaAdwAXgAgAGdCIgBmTKSAQ0yLTQuMi40LjAuMi4xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp#kpvalbx=_49-SY_CJHOXf4-EP99iOuAI_41
